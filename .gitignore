@@ -48,6 +48,7 @@
 .tmp_versions/
 .settings/
 Debug/
+Release/
 
 modules.order
 Module.symvers
