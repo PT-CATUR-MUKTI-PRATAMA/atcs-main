@@ -1,0 +1,2 @@
+../Core/Src/baseConvertion.c:52:6:ConvertDecimalToBase64	4
+../Core/Src/baseConvertion.c:81:10:ConvertBase64ToDecimal	3

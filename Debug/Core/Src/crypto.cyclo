@@ -1,0 +1,13 @@
+../Core/Src/crypto.c:80:9:generateRandomNumber	2
+../Core/Src/crypto.c:91:9:arrayToString	4
+../Core/Src/crypto.c:127:10:GenerateKey	4
+../Core/Src/crypto.c:161:10:SeparateData	3
+../Core/Src/crypto.c:182:6:ShuffleData	5
+../Core/Src/crypto.c:222:6:CombineData	4
+../Core/Src/crypto.c:254:6:ReplaceDictionary	5
+../Core/Src/crypto.c:288:6:EncryptData	1
+../Core/Src/crypto.c:337:9:SeparateSections	3
+../Core/Src/crypto.c:366:10:CompareCRC	4
+../Core/Src/crypto.c:415:6:ReverseShuffleData	5
+../Core/Src/crypto.c:456:6:ReverseReplaceDictionary	5
+../Core/Src/crypto.c:490:10:DecryptData	4
